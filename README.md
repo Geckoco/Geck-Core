@@ -1,42 +1,42 @@
 #commands:
 
-  #gc:
+  gc:
   
     permission: geckcore.geckcore
     
     description: The main command.
     
-  #broadcast:
+  broadcast:
   
     permission: geckcore.broadcast
     
     description: Sends a message to everyone on the server
     
-  #fakeop:
+  fakeop:
   
     permission: geckcore.fakeop
     
     description: Sends a message to the reciptitent saying they are now op.
     
-  #motd:
+  motd:
   
     permission: geckcore.motd
     
     description: Tells the player what the MoTD is.
     
-  #kick:
+  kick:
   
     permission: geckcore.kick
     
     description: Kicks players.
     
-  #ban:
+  ban:
   
     permission: geckcore.ban
     
     description: Bans players.
     
-  #unban:
+  unban:
   
     permission: geckcore.unban
     
