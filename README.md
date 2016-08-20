@@ -1,22 +1,22 @@
-# Geck-Core
-Geck-Tech is a replacement for essentials.
-
-
-## Commands
-/gc : The main command : Usage: 
-
-/broadcast : Sends a message to everyone on the server : Usage: /broadcast <MSG>
-
-/fakeop : Sends a message to the reciptitent saying they are now op.
-
-/motd : Tells the player what the MoTD is (Configurable in the config.)
-
-
-## Commands
-/gc : geckcore.geckcore
-
-/broadcast : geckcore.broadcast
-
-/fakeop : geckcore.fakeop
-
-/motd : geckcore.motd
+#commands:
+  ##gc:
+    permission: geckcore.geckcore
+    description: The main command.
+  ##broadcast:
+    permission: geckcore.broadcast
+    description: Sends a message to everyone on the server
+  ##fakeop:
+    permission: geckcore.fakeop
+    description: Sends a message to the reciptitent saying they are now op.
+  ##motd:
+    permission: geckcore.motd
+    description: Tells the player what the MoTD is.
+  ##kick:
+    permission: geckcore.kick
+    description: Kicks players.
+  ##ban:
+    permission: geckcore.ban
+    description: Bans players.
+  ##unban:
+    permission: geckcore.unban
+    description: Unbans player.
