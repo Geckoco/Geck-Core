@@ -42,3 +42,21 @@
     
     description: Unbans player.
     
+  nick:
+  
+    permission: geckcore.nickname
+    
+    description: Sets players name.
+    
+  gamemode:
+  
+    permission: geckcore.gamemode
+    
+    description: Sets players gamemode.
+    
+  fly:
+  
+    permission: geckcore.fly
+    
+    description: Sets players fly mode.
+    
